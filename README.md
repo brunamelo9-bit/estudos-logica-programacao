@@ -10,7 +10,7 @@ ATENÇÃO: nos exemplos, os dados em vermelho representam os dados
 que o usuário vai digitar. 
 
 
-Problema "terreno"  
+__Problema "terreno"__ 
 
 Fazer um programa para ler as medidas da largura e comprimento de um terreno retangular com uma 
 casa decimal, bem como o valor do metro quadrado do terreno com duas casas decimais. Em seguida, 
@@ -34,7 +34,7 @@ Area do terreno = 240.00
 Preco do terreno = 36000.00 
 
 
-Problema "retangulo" 
+__Problema "retangulo"__ 
 
 
 Fazer um programa para ler as medidas da base e altura de um retângulo. Em seguida, mostrar o valor 
@@ -59,7 +59,7 @@ DIAGONAL = 16.6643
 
 
 
-Problema "idades"
+__Problema "idades"__
 
 
 Fazer um programa para ler o nome e idade de duas pessoas. Ao final mostrar uma mensagem com os 
@@ -77,7 +77,7 @@ A idade média de Maria Silva e Joao Melo é de 19.5 anos
 
 
 
-Problema "soma" 
+__Problema "soma"__ 
 
 
 Fazer um programa para ler dois valores inteiros X e Y, e depois mostrar na tela o valor da soma destes 
@@ -96,7 +96,7 @@ SOMA = 43
 
 
 
-Problema "troco" 
+__Problema "troco"__ 
 
 
 Fazer um programa para calcular o troco no processo de pagamento de um produto de uma mercearia. 
@@ -125,7 +125,7 @@ TROCO = 10.00
 
 
 
-Problema "circulo"  
+__Problema "circulo"__ 
 
 
 
@@ -150,7 +150,7 @@ AREA = 547.391
 
 
 
-Problema "pagamento" 
+__Problema "pagamento"__ 
 
 
 Fazer um programa para ler o nome de um(a) funcionário(a), o valor que ele(a) recebe por hora, e a 
@@ -176,7 +176,7 @@ O pagamento para Maria Dias deve ser 6000.00
 
 
 
-Problema "consumo" 
+__Problema "consumo"__ 
 
 
 
@@ -198,7 +198,7 @@ Consumo medio = 15.518
 
 
 
-Problema "medidas" 
+__Problema "medidas"__ 
 
 
 
@@ -230,7 +230,7 @@ AREA DO TRAPEZIO = 90.4121
 
 
 
-Problema "duracao" 
+__Problema "duracao"__ 
 
 
 Fazer um programa para ler uma duração de tempo em segundos, daí imprimir na tela esta duração no 
